@@ -1,0 +1,8 @@
+password-security-checker/
+├── app.py
+├── master.key
+├── requirements.txt
+├── templates/
+│   ├── index.html
+│   └── generate.html
+└── README.md
